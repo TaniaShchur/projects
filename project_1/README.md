@@ -15,6 +15,9 @@ Cтартап, который продаёт продукты питания. Н
 ### Библиотеки: 
 pandas / numpy / plotly / matplotlib / seaborn / math / scipy
 
+### Cтатус проекта: 
+завершен
+
 ### Автор: 
 Татьяна Щур, @taniashchur
 
