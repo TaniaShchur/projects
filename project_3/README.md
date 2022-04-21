@@ -12,6 +12,9 @@
 ### Библиотеки: 
 pandas / plotly / matplotlib / seaborn / plotly.express
 
+### Cтатус проекта: 
+завершен
+
 ### Автор: 
 Татьяна Щур, @taniashchur
 
