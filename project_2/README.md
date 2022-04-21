@@ -14,6 +14,9 @@
 	
 ### Библиотеки: 
 pandas / numpy / datetime / matplotlib 
+
+### Cтатус проекта: 
+завершен
 	
 ### Автор: 
 Татьяна Щур, @taniashchur
